@@ -32,6 +32,6 @@ Backend Software Engineer | Java | Spring Boot | Microservices | DSA | Scalable 
 
 - LinkedIn: [in/anmehla09](https://linkedin.com/in/anmehla09)  
 - Portfolio: [anmolsportfolio.netlify.app](https://anmolsportfolio.netlify.app/)  
-- LeetCode: [Ak_Mehla09](https://leetcode.com/u/AkMehla09/)  
-- YouTube: [Code-Decode](https://youtube.com/Code-Decode)  
+- LeetCode: [Ak_Mehla09]([https://leetcode.com/u/AkMehla09/](https://leetcode.com/u/Ak_Mehla09/))  
+- YouTube: [Code-Decode]([https://youtube.com/Code-Decode](https://www.youtube.com/@Code_Decode09))  
 - Email: anmolmehla4@gmail.com  
