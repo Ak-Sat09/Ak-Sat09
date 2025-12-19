@@ -1,55 +1,69 @@
-# 👋 Hi, I’m Anmol Mehla (Ak-Sat09)
+# 👋 Hi, I'm Anmol Mehla (Ak-Sat09)
 
-🚀 Full-Stack Java Developer | DSA Practitioner | Backend & API Enthusiast
+Backend Software Engineer | Java | Spring Boot | Microservices | DSA | Scalable Backend Systems  
 
-I build **clean, scalable Java projects** and solve DSA problems daily.  
-Preparing for SDE interviews and contributing to real-world backend apps.
+🚀 6 months internship experience optimizing backend APIs, building scalable microservices, and solving complex DSA problems.  
+💻 Strong foundation in Java, Spring Boot, MySQL, REST APIs, and concurrency control techniques like rate limiting, circuit breakers, retries, and idempotency.  
+📚 Passionate about building **reliable, high-performance backend systems**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages:**  
-Java 🧡 • JavaScript
-
-**Backend:**  
-Spring Boot • REST APIs • Resilience4j
-
-**Tools & Platforms:**  
-Maven • Git • GitHub • VS Code • IntelliJ
+**Languages:** Java 8/11/17, SQL, JavaScript  
+**Frameworks & Libraries:** Spring Boot, Spring Data JPA  
+**Databases & Cache:** MySQL, Redis  
+**Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA, Docker  
+**Concepts:** Data Structures & Algorithms, System Design, Microservices, Event-Driven Architecture  
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔹 Coupon & Voucher Marketplace Platform (Microservices)
+- Tech Stack: Java, Spring Boot, MySQL, Kafka, Docker  
+- Built platform to buy/sell coupons for 10,000+ users  
+- Implemented **rate limiter** using Resilience4j  
+- Ensured **concurrency control** for purchases and secure transactions  
+- Implemented **Circuit Breaker + Retry** for reliable service-to-service communication  
+- [Video Demo](#)  
+
+### 🔹 Medicine Ordering & Delivery System (Microservices)
+- Tech Stack: Java 17, Spring Boot, MySQL, Kafka  
+- Online platform for ordering medicines, event-driven microservices  
+- Added **Optimistic Locking** to prevent race conditions  
+- Implemented **Circuit Breaker + Retry + DLQ + Fallback** for reliability  
+- Added **Idempotency Key Lock** to prevent duplicate orders  
+- [Video Demo](#)  
+
 ### 🔹 API Rate Limiter (Resilience4j)
-Rate limiter API with **3 requests per 10 seconds** configuration using Resilience4j.  
-👉 https://github.com/Ak-Sat09/springboot-resilience4j-rate-limiter
-
-### 🔹 Chat Application  
-Realtime chat app using JavaScript & WebSockets.  
-👉 https://github.com/Ak-Sat09/Chat-Application
-
-### 🔹 DocuExtract  
-Spring Boot app for document text extraction using Apache Tika.  
-👉 https://github.com/Ak-Sat09/DocuExtract
+- Fixed-window rate limiter: 3 requests per 10 seconds per user  
+- Prevents excessive API calls gracefully  
+- [Repo Link](https://github.com/Ak-Sat09/API-Rate-Limiter-using-Resilience4j)  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced DSA Patterns
-- Distributed Systems
-- Cloud Fundamentals
+- Advanced DSA & Competitive Coding  
+- System Design & Distributed Systems  
+- Cloud technologies (AWS fundamentals)  
+
+---
+
+## 📈 GitHub Stats
+
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak-Sat09&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-⭐ GitHub: https://github.com/Ak-Sat09  
-🔗 LinkedIn: https://linkedin.com/in/anmehla09  
-📄 Portfolio: https://anmolsportfolio.netlify.app/  
-📈 LeetCode: https://leetcode.com/u/Ak_Mehla09/
+- LinkedIn: [in/anmehla09](https://linkedin.com/in/anmehla09)  
+- Portfolio: [anmolsportfolio.netlify.app](https://anmolsportfolio.netlify.app/)  
+- LeetCode: [Ak_Mehla09](https://leetcode.com/u/AkMehla09/)  
+- YouTube: [Code-Decode](https://youtube.com/Code-Decode)  
+- Email: anmolmehla4@gmail.com  
 
 ---
 
-> 💡 Always learning. Always building.
+> 💡 Always learning. Always building. Clean code, SOLID, DRY, KISS principles followed.
