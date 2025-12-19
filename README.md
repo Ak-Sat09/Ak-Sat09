@@ -16,26 +16,22 @@ Backend Software Engineer | Java | Spring Boot | Microservices | DSA | Scalable 
 **Tools & Platforms:** Git, GitHub, Maven, IntelliJ IDEA, Docker  
 **Concepts:** Data Structures & Algorithms, System Design, Microservices, Event-Driven Architecture  
  
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced DSA & Competitive Coding  
 - System Design & Distributed Systems 
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak-Sat09&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - LinkedIn: [in/anmehla09](https://linkedin.com/in/anmehla09)  
 - Portfolio: [anmolsportfolio.netlify.app](https://anmolsportfolio.netlify.app/)  
 - LeetCode: [Ak_Mehla09](https://leetcode.com/u/AkMehla09/)  
 - YouTube: [Code-Decode](https://youtube.com/Code-Decode)  
 - Email: anmolmehla4@gmail.com  
-
----
-
-> 💡 Always learning. Always building. Clean code, SOLID, DRY, KISS principles followed.
